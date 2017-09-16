@@ -117,10 +117,6 @@ Go through some of [these](https://github.com/gothinkster/realworld) and look at
     * Gives you a lot of functionality out of the box (like user authentication, database connections, and view rendering)
     * The asset pipeline helps with frontend development
     * Ruby takes longer to run programs than some other programming languages
-* [Laravel](https://laravel.com/)
-    * PHP (harder language to learn)
-    * Large community with good documentation
-    * Lots of front end support
 * [Meteor](https://www.meteor.com/)
     * JavaScript (easier language to learn)
     * Gives you a lot of functionality out of the box (like user authentication, database connections, and view rendering)
@@ -141,6 +137,7 @@ Go through some of [these](https://github.com/gothinkster/realworld) and look at
 * [TodoMVC](http://todomvc.com/)
 * [CodeNewbie Podcast](https://www.codenewbie.org/podcast)
 * [Women Who Code DC](https://www.meetup.com/Women-Who-Code-DC/)
+* [How fast are different programming languages?](http://benchmarksgame.alioth.debian.org/)
 
 
 ## Stay in touch!
