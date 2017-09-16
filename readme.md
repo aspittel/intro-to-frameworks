@@ -5,7 +5,6 @@
 * Learn the distinction between frontend, backend and CSS frameworks
 * Learn which frameworks are popular for now and why
 * Know how to make decisions on which frameworks to use for projects
-* See resources for further learning on each framework
 
 ### What type of app would you build?
 If you are unsure, [here](https://github.com/tastejs/awesome-app-ideas) and [here](https://devcereal.com/21-web-app-ideas-beginner-projects/) have some great ideas! Also, spend some time thinking about what would make your app most successful. Discuss your ideas with the people at your table.
