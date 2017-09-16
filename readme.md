@@ -144,8 +144,8 @@ Go through some of [these](https://github.com/gothinkster/realworld) and look at
 
 
 ## Stay in touch!
-* aspittel.github.io
-* @aspittel on Twitter
-* aspittel on GitHub
-* Ali Spittel on LinkedIn
+* [aspittel.github.io](aspittel.github.io)
+* [@aspittel](twitter.com/aspittel) on Twitter
+* [aspittel](github.com/aspittel) on GitHub
+* [Ali Spittel](https://www.linkedin.com/in/ali-spittel-768a98119) on LinkedIn
 
